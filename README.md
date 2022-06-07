@@ -1,4 +1,5 @@
 Project Title: A Socil Media Application
 
-ERD:![Screenshot (19)](https://user-images.githubusercontent.com/63916238/172263650-b0b8e316-652e-40f6-8f10-f4d7dfe95c0a.png)
+
+![ERD](https://user-images.githubusercontent.com/63916238/172276909-19195082-ae09-4344-bf44-7fdbed52ae4a.png)
 
